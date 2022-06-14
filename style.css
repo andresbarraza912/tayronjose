@@ -1,0 +1,11 @@
+.menu{
+border-radius: 3px;
+padding: 20px 15px;
+display: inline-block;
+    text-decoration: none;
+
+}
+.btnuno{
+color: white;
+background-color: green;
+}
